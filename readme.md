@@ -1,4 +1,4 @@
-#bawangcan
+# bawangcan
 
 使用场景：
 大众点评的霸王餐批量报名工具
@@ -16,7 +16,7 @@ config.menu = "0"
 ```
 字段解析:
 
-##dper：
+## dper：
 首先获取dper字段
 https://www.dianping.com/
 从电脑段进去大众点评首页并登录
@@ -24,13 +24,13 @@ https://www.dianping.com/
 
 ![获取dper](https://github.com/22ke/bawangcan2/blob/master/huoqudper.png)
 
-###cityname：
+### cityname：
 所在城市的城市名拼音，shanghai，shenzhen。。。。。。双引号不要丢了
 必须得符合要求，点评要求得账号居住地和报名的城市相同。
 
-###menu：
+### menu：
 报名的类别，填数字就可以了，如果填多个数字的话为
 config.menu = "1,2,3"
 数字间用逗号隔开，注意逗号是英文的逗号
 
-最后双击main.exe就可以了
+## 最后双击main.exe就可以了
