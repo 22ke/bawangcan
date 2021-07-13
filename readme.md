@@ -22,7 +22,7 @@ https://www.dianping.com/
 从电脑段进去大众点评首页并登录
 然后在cookie中找到 deper这个字段，然后把值复制到config.lua的相应位置，双引号不要丢了
 
-！[获取dper]（https://github.com/22ke/bawangcan2/blob/master/huoqudper.png）
+！[获取dper]（https://github.com/22ke/bawangcan2/blob/master/huoqudper.png)
 
 ###cityname：
 所在城市的城市名拼音，shanghai，shenzhen。。。。。。双引号不要丢了
